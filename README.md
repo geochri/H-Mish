@@ -1,6 +1,6 @@
 # H-Mish
 
-*Code will be released soon*
+*Code will be released soon. Currently in validation for ImageNet.*
 
 #### Updates:
 
